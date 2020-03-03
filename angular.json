@@ -23,7 +23,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [ "node_modules/bootstrap/dist/css/bootstrap.css",
+            "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": [
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularinterface"
+    }
+  },
+  "defaultProject": "angularinterface",
+  "cli": {
+    "analytics": "8eba502f-4b1b-459e-854a-6983d45614fc"
+  }
 }
