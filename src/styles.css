@@ -64,3 +64,15 @@ footer {
 .dropdown-item:active {
   background-color: #a9aeb2;
 }
+body::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #1e1e24;
+}
+
+body::-webkit-scrollbar-thumb {
+  /* background: #b849b8; */
+  background: #337ab7;
+}
